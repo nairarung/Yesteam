@@ -1,2 +1,19 @@
-speech.py is only for test
-main.py is the main web app driver
+
+
+Step 1: Credentials
+Follow this link to:
+https://cloud.google.com/text-to-speech/docs/create-audio-text-command-line
+https://cloud.google.com/text-to-speech/docs/before-you-begin
+
+Generate a Google Cloud Platform profile,
+Enable billing (won't be charged unless it's over a million requests a month)
+Enable the speech API
+Set up authentication
+Download the credentials
+This will result in a JSON file with your API private key, which you need to store in the "CRED" directory. Do NOT share this file with anybody, 
+as it contains a private key. Anybody with this file can impersonate you in google cloud platform. For security, 
+we can add all JSON files to .gitignore.
+
+Step 2: Test the system
+speech.py can be used for test. This will generate an audio file as referenced in https://codelabs.developers.google.com/codelabs/cloud-text-speech-python3?hl=en#8
+however main.py invokes the interactive web based pronunciation app.
