@@ -6,7 +6,7 @@ https://cloud.google.com/text-to-speech/docs/create-audio-text-command-line
 https://cloud.google.com/text-to-speech/docs/before-you-begin
 
 Generate a Google Cloud Platform profile,
-Enable billing (won't be charged unless it's over a million requests a month)
+Enable billing 
 Enable the speech API
 Set up authentication
 Download the credentials
