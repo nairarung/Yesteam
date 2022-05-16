@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "positive-winter-350105",
+  "private_key_id": "d801aba4efe6633fb4bb497b26abcb56640c5db1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMWHf6joehlOcn\n7fAT1PdMk8vP152pQDWxiuck4sGxTIriVqNkKEziyWsRStLxSVFyQ1bDzgN3Nr8T\ntB6+P0wiyBfJyqQ4mHMk1cqnIP/m2RUranrDis6QZ4EByOuxenXKx5xd+uJvOmih\nWBtW1SGr1j/Na3YRVLEb85j6vgJd48a1/AzJy1N8dbrtKuADS9A0wQa2O34/Rc7N\nDQjIfoNteOQWtgfzm990iXDyq4iJS5Y01qa2FRjaD5RrWlbg7NmmE6J6r/mF6S03\nMDHUBenMKj41KF74d7xDjpVlg/tD32v2KE202sr1YejCrXwpcqJHOgqUSkdvdPWg\nAzAPrgSZAgMBAAECggEAYM9O9BjfX+lEBBJBSZv9Fz3z8oFTk9I0PesxK7P0ELPT\nHnzuRq6jElRbUaNxwVc7a1dEvVoWIT4CE2sjn30sbFQAlRzYZWmwL1TMABbttafF\n1D5Lb+WMjDRFFZvjMb9zG8EqrwmDii+RT1MHDMHHhHnp2z+cfYRyrevf33bydxjw\nGF9ifP5mo9jYNavzdUTspcKjT01qKG/54JmXYxq8ugY3bfEx6XWpkmDuzCLNKuWr\nsm1XIzhMo3rZchBdrGhjxG/TxpNn0HyaocxxkWc5cdtm91U4jUoIqz6ao+NScVzz\nHd6XFqF7vNAdH7IKL3zsFQfuSLOVFIkKp6eETAx5uwKBgQDnxplUbgKx1RfUlPiq\nWhVkeMdaEG0BXUKUd9RqNt/g66PheMbOlqb19SamH9GXaM6UJx7mmkHPTVgqwcMO\ntVAnyCD2RHvOlh/T70xtH/nehykjy8hTc4x8VCiidxE3pZdWI1huXZ1QkicpF4mC\nq18dN1wEqNKrHNm0z2YeSAbzBwKBgQDhs/JHIf+WqCRYDKC8J4AodNI/4+x/FeX4\nrywLrwiEN2UrR+DvuFucB6ISjUgtYHbA134+dhLEm0C2O130mFlLEmLrrgAawrLR\nX1i6JYoRiQL+Jj3TCztihXU+o3vLQpE/tuvIXBRYEqrOHZk65JVX64sIbvhwYylo\nEHu59clDXwKBgDrxo+7351GIiv3yQOc577TUjoZWJRKywAr4CppUiE0wQEZIK+9A\nGwf0J7cZ4niqG9dLt60Xz+LDnceJ7WxhKhhj6hYXRpE8Vq3UbtBV0HsKTqke2zx1\n52V7FbZzp3pKb5lldcjjn+1sre7iYINNx+urN4ir0p/Xv3ofQK40zSejAoGBAN5U\n0n67wPh5nYOWvOdbyeUQXuRM83Sk76svc6X2v97uapxd6/h4lNV4t3Cq98SrV4/T\nNyr0SLyfavmYNY9yW9OVwxgCiVvTGy8gS1jjDcUEQIx2w0QXtmHwsXQIuzOY2Vf4\nKv9tpSS1DsiHY6Ad9/dpscWW+uhK5kj6o8allaLlAoGBAMrO2zb5dHFivNC4QwE+\nrXOy0DTsNQXDGuamHA0tLaDBsCJt/TSdn9RDeFRGdgu16i+KFEpOPlrUR12JBok/\n2exritMhZoONN9Ddz4hliU2EQZKyyDfheJZSKX1Djf5qNZC2sIGELiO7eUrAT6RI\nnD/R8YibdErLZILV6OTtde+o\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-tts-sa@positive-winter-350105.iam.gserviceaccount.com",
+  "client_id": "108366155059556163398",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-tts-sa%40positive-winter-350105.iam.gserviceaccount.com"
+}
